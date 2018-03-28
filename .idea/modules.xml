@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IncrementallyUpdate-master.iml" filepath="$PROJECT_DIR$/IncrementallyUpdate-master.iml" />
+      <module fileurl="file://D:\My_temp\IncrementallyUpdate-master\IncrementallyUpdate-master.iml" filepath="D:\My_temp\IncrementallyUpdate-master\IncrementallyUpdate-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\My_temp\IncrementallyUpdate-master\app\app.iml" filepath="D:\My_temp\IncrementallyUpdate-master\app\app.iml" />
     </modules>
   </component>
 </project>

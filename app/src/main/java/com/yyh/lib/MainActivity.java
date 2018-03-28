@@ -23,6 +23,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
+/**
+ *
+ * 链接 https://www.jianshu.com/p/1d69b3ade53a?t=1493709593357
+ */
+
 public class MainActivity extends Activity {
 
     private ProgressBar loadding;
